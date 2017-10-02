@@ -1,3 +1,4 @@
 Arduino segitségével egy működőképes prototípus tolatószenzor rendszert alkottunk két ultrahangos távolságszenzor segítségével.
 Amennyiben a tolatószenzor közeledik egy tárgyhoz, elkezd villogni, illetve minél közelebb van a tárgyhoz, annál gyorsabban villog.
 A zöld led mutatja a jármű elejét, a piros pedig a hátulját.
+a projekthez fűződő képek: https://imgur.com/a/ZjKEn
